@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+SmartApi
+python-dotenv
+pyotp
+requests
+websocket-client
